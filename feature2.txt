@@ -1,0 +1,3 @@
+first row in feature2.txt
+second row in feature2.txt
+third row in feature2.txt
